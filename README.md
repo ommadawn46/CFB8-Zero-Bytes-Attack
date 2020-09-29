@@ -1,7 +1,7 @@
-# CFB8 Zero Bytes Attack
+# CFB8 Zero IV Attack
 
 ```
-❯ python cfb8_zero_bytes_attack.py
+❯ python cfb8_zero_iv_attack.py
 [!] Attack Success
 Number of trials: 275
 Key: b'U\x1e\x9eoKd\x18\xdf\x0c\x05\xfc3\x1f4\xd9\x8e'
